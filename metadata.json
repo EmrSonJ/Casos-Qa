@@ -1,0 +1,6 @@
+{
+  "name": "QAFlow - Gestor de Casos de Prueba y Evidencias",
+  "description": "Herramienta profesional para diseño, ejecución paso a paso y gestión de evidencias fotográficas y registros de casos de prueba de QA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
